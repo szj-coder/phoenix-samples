@@ -1,7 +1,7 @@
 syntax = "proto2";
 
 // 生成类的包路径
-option java_package = "com.example.coreapi";
+option java_package = "com.iquantex.samples.helloworld.coreapi";
 //生成的数据访问类的类名
 option java_outer_classname = "Hello";
 
